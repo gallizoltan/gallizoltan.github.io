@@ -1,3 +1,14 @@
+zoltan:
+  username: zoltan
+  name: Zoltán Gálli
+  location: Budapest, Hungary
+  url_full: https://zoltan.xyz/
+  url: zoltan.xyz
+  bio: Roman Catholic, husband, father, geek
+  picture: assets/images/zoltan.jpg
+  facebook: False
+  twitter: gallizoli
+  cover: assets/images/blog-cover.jpg
 ghost:
   username: ghost
   name: Ghost

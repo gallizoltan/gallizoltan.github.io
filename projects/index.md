@@ -4,7 +4,6 @@ current: projects
 cover: assets/images/timelapse-cityscape-night-time.jpg
 title: Projects
 navigation: true
-logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---

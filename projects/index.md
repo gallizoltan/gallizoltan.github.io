@@ -15,8 +15,8 @@ A bot that counts users from all known Mastodon instances then posts statistics 
 Running at: [bitcoinhackers.org/@mastodonusercount](https://bitcoinhackers.org/@mastodonusercount)  
 Source available: [github.com/gallizoltan/usercount](https://github.com/gallizoltan/usercount)
 
-### My favorite contract bridge bidding system in Hungarian ♣♦♥♠
-Bridge bidding system: [Bridzs licit rendszer](https://bridge.zoltan.xyz/)
+### Bridge bidding system ♣♦♥♠
+My favorite contract bridge bidding system in Hungarian: [Bridzs licitrendszer](https://bridge.zoltan.xyz/)
 
 ### WarpWallet with BIP39 compatible Mnemonic Code
 A brain wallet generator that uses scrypt and pbkdf2 for key stretching: [WarpWallet](https://zoltan.xyz/warp)  

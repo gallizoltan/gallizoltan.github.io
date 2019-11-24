@@ -5,7 +5,7 @@ cover: assets/images/seashore-during-nighttime.jpg
 navigation: True
 title: Kain és Ábel
 date: 2019-11-18 10:00:00
-tags: []
+tags: [ misztika ]
 class: post-template
 subclass: 'post tag-getting-started'
 author: zoltan

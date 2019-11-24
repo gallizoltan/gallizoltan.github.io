@@ -47,6 +47,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-get-json
+
+jekyll_get_json:
+  - data: mayer
+    json: 'https://mayermultiple.info/current.json'
 
 feed:
   path: feed.xml

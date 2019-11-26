@@ -2,14 +2,10 @@ misztika:
   name: misztika
   description: "A misztika Jákob létrája. Egyszercsak felébredünk álmunkból és rácsodálkozunk: „Valóban az Úr van ezen a helyen és én nem tudtam.” Ter 28.11-17"
   cover: assets/images/Jacobs_Dream.jpg
-fiction:
-  name: fiction
+gazdaság:
+  name: gazdaság
   description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
+  cover: assets/images/bitcoins-and-u-s-dollar-bills.jpg
 getting-started:
   name: getting-started
   description: False

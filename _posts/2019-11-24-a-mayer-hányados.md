@@ -5,7 +5,7 @@ cover: assets/images/space-grey-ipad-air-with-graph-on-brown-wooden-table.jpg
 navigation: True
 title: A Mayer hányados
 date: 2019-11-24 17:10:00
-tags: []
+tags: [ gazdaság ]
 class: post-template
 author: zoltan
 excerpt: "A Mayer hányadost (Mayer Multiple) Trace Mayer hozta létre, hogy a Bitcoin árát elemezze."

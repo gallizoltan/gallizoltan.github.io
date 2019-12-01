@@ -27,8 +27,8 @@ twitter: gallizoli # replace by your username
 #facebook: ghost # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus: True
+disqus_shortname: zgalli # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-153114308-1

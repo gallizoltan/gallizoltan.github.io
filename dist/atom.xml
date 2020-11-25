@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Roman Catholic, husband, father, geek</description>
+    <link>
+    https://zoltan.xyz</link>
+    
+      
+      <item>
+        <title>Az Üdvözültek Kicsiny Száma</title>
+        
+          <description>Porto Mauriziói Szent Lénárd beszéde</description>
+        
+        <pubDate>Wed, 27 Nov 2019 13:00:00 +0100</pubDate>
+        <link>
+        https://zoltan.xyz/kevesen-%C3%BCdv%C3%B6z%C3%BClnek</link>
+        <guid isPermaLink="true">https://zoltan.xyz/kevesen-%C3%BCdv%C3%B6z%C3%BClnek</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>A Mayer hányados</title>
+        
+          <description>A Mayer hányadost (Mayer Multiple) Trace Mayer hozta létre, hogy a Bitcoin árát elemezze.</description>
+        
+        <pubDate>Sun, 24 Nov 2019 18:10:00 +0100</pubDate>
+        <link>
+        https://zoltan.xyz/a-mayer-h%C3%A1nyados</link>
+        <guid isPermaLink="true">https://zoltan.xyz/a-mayer-h%C3%A1nyados</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Kain és Ábel</title>
+        
+          <description>A történet háttere</description>
+        
+        <pubDate>Mon, 18 Nov 2019 11:00:00 +0100</pubDate>
+        <link>
+        https://zoltan.xyz/kain-es-abel</link>
+        <guid isPermaLink="true">https://zoltan.xyz/kain-es-abel</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

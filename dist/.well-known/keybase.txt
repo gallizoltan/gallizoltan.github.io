@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/galli
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zoltan.xyz
+  * I am galli (https://keybase.io/galli) on keybase.
+  * I have a public key with fingerprint 5FF3 45B1 1995 BEBB 31A2  40E2 116D 19B0 5C58 5B6D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c2c26fef8bf4947d0fe32c4949850e63ac594a293f2446e19d32267693a1bd400a",
+      "fingerprint": "5ff345b11995bebb31a240e2116d19b05c585b6d",
+      "host": "keybase.io",
+      "key_id": "116d19b05c585b6d",
+      "kid": "0101c2c26fef8bf4947d0fe32c4949850e63ac594a293f2446e19d32267693a1bd400a",
+      "uid": "2c07dca1520a992bd4814f927e2dbb19",
+      "username": "galli"
+    },
+    "service": {
+      "hostname": "zoltan.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1540733437,
+  "expire_in": 157680000,
+  "prev": "cd13e44d67c4c14201a855a7a5c7d3899955fc788a0e3fb161204f32468dd4cc",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QVFUYXggkmCwsRgZzMm+a04h0z/2+qxYKfYwQECBj7eJ6P85druzeu+ze
+Rb7EYB2hLxcmzcGSDMQhFceZiFaofsW6hpogiIBMQZpmIgwIpSPSXcb+9bPz55zz
+vs/znOd9z1uz8DFDaMgie9wp8xaTPaTrD95g6muPLUV4VSxGjKVIPpzfoE2ELs2S
+L4uIEUEBCgRMwCgJSgwvESxBi6gEcUzQjyxDopDCOYFkCQ5jcQkjCAoCVsQxjKIp
+FucALxIoyiHxiCQrVuh0OGVF02VJScIJkgeAZUke8jwOOIxAIQYAJQKWR0mBZEie
+EnVinuoKMnRzPOeCCbKqx/SLZd7ef+D/Z9/ueTlMQGlR4ACJoRzLYnqWAYTEYjTE
+RJ4HbBDogk6Fs0MdbeVsNhnZGY/ooUJZgMGuBst4lC5RbRqnJBQVl+g0h1PVVEG1
+6fE8TXO4jEGeVuwIAndA3vJIwsLLiqi3UGcUQqdLVhXECHSkoMlBTUASKI3jBE7H
+I7DIITuhRQ4iSJpiUH0F34GFuqQgAhwShEjRApElAAJDAceQJEdzpECLOMPqH0JK
+As0wHApxiQcUwFBCwjGCYkSREAQkWFWBoiJGUvfJWXVNl2xVOM3thMjOqPdDl4YZ
+QkINC8JDg8NliIqM/nfi9n/61FzyhYv3bz3trZ3afl7cx4q2uLL28SUR1sY5n1JH
+P1zpLMkLOL5VTqw/3mepbsqpy7ww9PuYfWT796nD7QVmV8fqj468MdYdU1FVu1yr
++KCuabjqXs+liPtthmPZ48tiPDNMx/M3X0o+cVQ5MzTgCZgL27OvHZktb2ATJ5Oa
+m2+cHxh283+XfVn9SsXDpXffXEXNps+89/OdFZdBzqr0mWVfNUaVW69dV7rqjbaK
+EkNeZp+pdXduurfzbs835Q1XbndM0BPV5yKeyfLXJsXcOXnRPY2t8HVvrtk4WpH5
+1kzmICPjvrCFiwnGYz/4eU1lf+BeWsqWrAdFk4fRW0OR113+x1s7DkVGIFj93oMZ
+ppQbYRmNz5lnHb6z68K7RtdFbv0h7fCxn1qfjC16m//w7F9rulcXJ47k5pncprXJ
+aCBKSItLnY3wU+Y9BtBbFdf5ceKgZ7nnhU3ndkVPLlnQ29O/aF8+eCL3lx1HKbXr
+T2/vq00vj3+yaUOG9+SGUvPm9Yf6ng1PaO9+R90Tf/rr8MVyYGP+A3TXms/GpJuX
+kKvbSp2nsrDK1wenJ1MrB9i5bVOxBQcq2+SJF6XAjF/z3HZ/QZr3+lnfb0L/d80t
+bNKIAW0e+lXN3pp4paxtd0quf61a1+8ffW0q+UB0y9XplBzv5fT9K9+tous7vXG9
+P9onGlrONJ4OOf4P
+=1jec
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/galli
+
+==================================================================

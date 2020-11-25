@@ -1,3 +1,17 @@
+## Telepítés
+```
+$ bundle install
+```
+## Futtatás
+```
+$ bundle exec jekyll serve
+```
+## Release
+```
+$ bundle exec jekyll build
+```
+Aztán git commit + push.
+
 ## Jasper2
 
 [![Build Status](https://travis-ci.org/jekyller/jasper2.svg?branch=master)](https://travis-ci.org/jekyller/jasper2)

@@ -7,9 +7,6 @@ navigation: true
 class: page-template
 subclass: 'post page'
 ---
-### Lightning Network Node ⚡
-You can find my Lightning Node here: [03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5](https://1ml.com/node/03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5)
-
 ### Mastodon User Counter Bot 🐘 🤖
 A bot that counts users from all known Mastodon instances then posts statistics to Mastodon.  
 Running at: [bitcoinhackers.org/@mastodonusercount](https://bitcoinhackers.org/@mastodonusercount)  

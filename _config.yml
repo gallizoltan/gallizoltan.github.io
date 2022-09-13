@@ -51,7 +51,7 @@ plugins:
 
 jekyll_get_json:
   - data: mayer
-    json: 'https://mayermultiple.info/current.json'
+    json: 'https://bitcoinition.com/current.json'
 
 feed:
   path: feed.xml

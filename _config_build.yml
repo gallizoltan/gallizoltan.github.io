@@ -101,3 +101,4 @@ exclude:
   - "*.Rmd"
   - .git*
   - tools/*
+  - docs/*

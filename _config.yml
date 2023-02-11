@@ -1,4 +1,4 @@
 # Jekyll configuration
 
 baseurl: ""
-source: "./dist"
+source: "./docs"

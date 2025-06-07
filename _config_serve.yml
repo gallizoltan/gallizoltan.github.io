@@ -1,4 +1,6 @@
 # Jekyll configuration
 
 source: "./docs"
-include: [".well-known"]
+include:
+  - .well-known
+  - .well-known/lnurlp

@@ -1,2 +1,4 @@
 # Jekyll configuration
-include: [".well-known"]
+include:
+  - .well-known
+  - .well-known/lnurlp

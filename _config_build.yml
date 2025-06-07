@@ -82,7 +82,10 @@ branch: master
 relative_source: ../jasper2/
 destination: docs/
 
-include: [.well-known, _config.yml]
+include:
+  - _config.yml
+  - .well-known
+  - .well-known/lnurlp
 exclude:
   - assets/css
   - node_modules

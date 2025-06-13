@@ -49,10 +49,6 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
 
-jekyll_get_json:
-  - data: mayer
-    json: 'https://bitcoinition.com/current.json'
-
 feed:
   path: feed.xml
 

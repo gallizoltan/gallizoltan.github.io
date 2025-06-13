@@ -30,3 +30,6 @@ vendor
 Gemfile.lock
 node_modules
 package-lock.json
+
+# generated file
+_data/mayer.json

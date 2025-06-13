@@ -17,8 +17,6 @@ A Mayer hányados a Bitcoin jelenlegi ára osztva az árfolyam elmúlt 200 napos
 
 A Bitcoin jelenlegi ára: **{{ site.data.mayer.data.btc_price }} USD**  
 A Mayer hányados: **{{ site.data.mayer.data.current_mayer_multiple }}**  
-A Mayer hányados átlagos értéke a Bitcoin létrehozása óta: {{ site.data.mayer.data.average_mayer_multiple }}  
-A Mayer hányados értéke az idő {{ site.data.mayer.data.percentage_time_higher }}%-ban magasabb volt a mai értéknél.  
 Utoljára frissítve: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}
 
 További információ és percre pontos érték megtalálható a [MayerMultiple.info](https://mayermultiple.info/) oldalon.
